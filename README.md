@@ -1,6 +1,6 @@
-# 🧠 SURCHI Protocol Architecture
+#  SURCHI Protocol Architecture
 
-## 🔷 Overview
+##  Overview
 
 SURCHI is a modular, autonomous intelligence protocol designed to operate as a decentralized execution layer for Web3.
 
@@ -17,7 +17,7 @@ Into a unified system optimized for:
 
 ---
 
-## 🧩 Architectural Philosophy
+##  Architectural Philosophy
 
 SURCHI is not a traditional decentralized application with a single execution path.
 
@@ -32,13 +32,13 @@ These components work together to transform fragmented market information into *
 
 ---
 
-## 🧱 Core Principle
+##  Core Principle
 
 > **Decentralized markets should be intelligent, responsive, and autonomously coordinated**
 
 ---
 
-## 🏗 System Layers
+##  System Layers
 
 SURCHI is structured into five foundational layers:
 
@@ -52,17 +52,17 @@ Each layer is modular, composable, and independently extensible.
 
 ---
 
-# 🧬 1. Data Ingestion Layer
+#  1. Data Ingestion Layer
 
-### 🧠 Role
+###  Role
 The **sensory system** of the protocol.
 
-### 🎯 Purpose
+###  Purpose
 Continuously collect, normalize, and structure raw data from fragmented Web3 environments.
 
 ---
 
-### 📡 Data Sources
+###  Data Sources
 
 - Solana on-chain transactions  
 - Wallet activity & token transfers  
@@ -76,7 +76,7 @@ Continuously collect, normalize, and structure raw data from fragmented Web3 env
 
 ---
 
-### ⚙️ Core Functions
+###  Core Functions
 
 #### Continuous Collection
 - Real-time streaming of on-chain and off-chain data  
@@ -89,25 +89,25 @@ Continuously collect, normalize, and structure raw data from fragmented Web3 env
 
 ---
 
-### ✅ Outcome
+###  Outcome
 
 > A continuously updated, structured market state for AI interpretation
 
 ---
 
-# 🤖 2. Sentinel Intelligence Layer
+#  2. Sentinel Intelligence Layer
 
-### 🧠 Role
+###  Role
 The **cognitive core** of SURCHI
 
-### 🧩 Design
+###  Design
 A system of modular AI agents (**Sentinels**) instead of a single model.
 
 ---
 
-## 🔺 Core Sentinels
+##  Core Sentinels
 
-### 🧠 Alpha Sentinel (Narrative Intelligence)
+###  Alpha Sentinel (Narrative Intelligence)
 
 #### Focus:
 Early detection of attention and sentiment shifts
@@ -128,7 +128,7 @@ Early detection of attention and sentiment shifts
 
 ---
 
-### 💧 Liquidity Sentinel (Structural Intelligence)
+###  Liquidity Sentinel (Structural Intelligence)
 
 #### Focus:
 Market stability and risk detection
@@ -149,7 +149,7 @@ Market stability and risk detection
 
 ---
 
-### ⚡ Execution Sentinel (Operational Intelligence)
+###  Execution Sentinel (Operational Intelligence)
 
 #### Focus:
 Turning signals into actions
@@ -164,20 +164,20 @@ Turning signals into actions
 
 ---
 
-### ✅ Outcome
+###  Outcome
 
 > Multi-agent intelligence system capable of real-time market interpretation
 
 ---
 
-# 🧠 3. Intent Interpretation Layer
+#  3. Intent Interpretation Layer
 
-### 🧠 Role
+###  Role
 The **translation engine** between human intent and machine execution
 
 ---
 
-### ✨ Key Innovation
+###  Key Innovation
 
 Natural Language Interface (NLI)
 
@@ -185,13 +185,13 @@ Users define strategies in plain English.
 
 ---
 
-### 🧾 Example
+###  Example
 
 Monitor trending Solana AI tokens Buy with 2 SOL if liquidity > $500k and sentiment rises Exit at 2x or if top holders drop 5%
 
 ---
 
-### 🔍 Translated Into
+###  Translated Into
 
 - Entry conditions  
 - Exit logic  
@@ -201,7 +201,7 @@ Monitor trending Solana AI tokens Buy with 2 SOL if liquidity > $500k and sentim
 
 ---
 
-### ⚙️ Process Flow
+###  Process Flow
 
 1. User defines intent  
 2. System parses logic  
@@ -210,20 +210,20 @@ Monitor trending Solana AI tokens Buy with 2 SOL if liquidity > $500k and sentim
 
 ---
 
-### ✅ Outcome
+###  Outcome
 
 > Fully automated execution without manual configuration or scripting
 
 ---
 
-# 🔐 4. Execution & Security Layer
+#  4. Execution & Security Layer
 
-### 🧠 Role
+###  Role
 Secure, verifiable, autonomous execution
 
 ---
 
-### 🔒 Core Principles
+###  Core Principles
 
 - Permissioned  
 - User-authorized  
@@ -232,7 +232,7 @@ Secure, verifiable, autonomous execution
 
 ---
 
-### ⚙️ Components
+###  Components
 
 #### Transaction Routing Engine
 - Optimizes trade paths using real-time liquidity
@@ -253,26 +253,26 @@ Secure, verifiable, autonomous execution
 
 ---
 
-### ✅ Outcome
+###  Outcome
 
 > Autonomous execution without compromising user security
 
 ---
 
-# 🏛 5. Governance & Coordination Layer
+#  5. Governance & Coordination Layer
 
-### 🧠 Role
+###  Role
 Protocol evolution and coordination
 
 ---
 
-### 🪙 Powered By
+###  Powered By
 
 **$SURCHI Token + DAO**
 
 ---
 
-### 🗳 Governance Scope
+###  Governance Scope
 
 - Treasury allocation  
 - Protocol upgrades  
@@ -283,19 +283,19 @@ Protocol evolution and coordination
 
 ---
 
-### 🔄 Evolution
+###  Evolution
 
 Gradual transition from core team → community governance
 
 ---
 
-### ✅ Outcome
+###  Outcome
 
 > Fully decentralized protocol control over time
 
 ---
 
-# ⚙️ Design Principles
+#  Design Principles
 
 - **Modularity** → Independent evolution of components  
 - **Autonomy** → Condition-based execution  
@@ -306,7 +306,7 @@ Gradual transition from core team → community governance
 
 ---
 
-# 🧾 Conclusion
+#  Conclusion
 
 SURCHI is an **autonomous intelligence operating system for Web3**.
 
