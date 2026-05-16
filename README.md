@@ -6,7 +6,7 @@ Launched in 2020 by Anatoly Yakovenko, Solana leverages a unique, hardware-optim
 
 ---
 
-## 💡 Core Philosophy
+##  Core Philosophy
 
 Solana operates on a single, deterministic truth: 
 > **Time Standardization + Hardware-Level Data Efficiency = Scalable Decentralization.**
@@ -15,7 +15,7 @@ By embedding a standardized cryptographic clock directly into the ledger ledger 
 
 ---
 
-## 🛠️ The 8 Core Innovations
+##  The 8 Core Innovations
 
 Solana's performance is driven by a stack of eight fundamental technical innovations designed to optimize every layer of the network's data propagation and consensus mechanism:
 
@@ -58,7 +58,7 @@ Solana's performance is driven by a stack of eight fundamental technical innovat
 
 ---
 
-## 📊 Core Performance Metrics
+##  Core Performance Metrics
 
 | Metric | Solana Network Capabilities | Impact on Web3 Infrastructure |
 | :--- | :--- | :--- |
@@ -69,28 +69,28 @@ Solana's performance is driven by a stack of eight fundamental technical innovat
 
 ---
 
-## 🎯 Strategic Alignment: Why Solana Powers SURCHI
+##  Strategic Alignment: Why Solana Powers SURCHI
 
 **SURCHI** is architected to operate as an **AI-Autonomous Execution Engine**. To analyze massive on-chain data flows and execute split-second operations, it requires a base layer that functions at machine speed. Solana is the only network capable of meeting these performance constraints.
 
-### 🧠 1. Real-Time AI Execution
+###  1. Real-Time AI Execution
 The SURCHI protocol continuously ingests sub-second telemetry, cross-chain sentiment, and order book dynamics. Solana’s ultra-low latency guarantees that the exact millisecond an AI model triggers an execution signal, the transaction is processed on-chain without queuing delays.
 
-### ⚡ 2. High-Frequency Trading (HFT) Compatibility
+###  2. High-Frequency Trading (HFT) Compatibility
 Algorithmic trading demands immediate order execution and minimal slippage. Solana’s hyper-fast block times (~400ms) combined with deep ecosystem liquidity providers allow SURCHI’s automated agents to manage risk and rebalance assets with precision.
 
-### 🔀 3. Multi-Agent Parallel Execution
+###  3. Multi-Agent Parallel Execution
 Through Solana’s **Sealevel** runtime, SURCHI can deploy clusters of dedicated AI agents—including **Market Analysis**, **Order Execution**, and **Risk Management**—to process tasks concurrently. This architecture prevents individual routines from bottlenecking the main application state.
 
-### 💰 4. Sustainable Macro-Economics
+###  4. Sustainable Macro-Economics
 Autonomous AI workflows generate immense transaction volumes due to constant state monitoring and position adjustments. On traditional networks, gas costs would quickly bankrupt the protocol. Solana’s predictable, near-zero fees ensure the long-term viability of the SURCHI utility model.
 
-### 🔗 5. Unparalleled Composability
+###  5. Unparalleled Composability
 Solana maintains a unified global state without fragmented sharding. This allows SURCHI to communicate seamlessly with core decentralized finance primitives like [Jupiter Aggregator](https://jup.ag) for optimal routing and [Raydium AMM](https://raydium.io) for instant liquidity access.
 
 ---
 
-## ⚖️ Balanced System Perspective & Challenges
+##  Balanced System Perspective & Challenges
 
 While Solana offers premier performance, building an enterprise-grade protocol requires an objective understanding of its engineering trade-offs:
 
@@ -99,7 +99,7 @@ While Solana offers premier performance, building an enterprise-grade protocol r
 
 ---
 
-## 🚀 Future Ecosystem Outlook
+##  Future Ecosystem Outlook
 
 Solana is rapidly cementing its position as the native environment for the **AI + Web3 Convergence**. With the upcoming full mainnet integration of next-generation validator clients like Firedancer, the network is scaling past historical constraints, making it the undeniable infrastructure choice for decentralized AI networks, high-frequency financial applications, and real-world assets (RWAs).
 
@@ -107,7 +107,7 @@ For SURCHI, choosing Solana is not simply a technical preference; it is a long-t
 
 ---
 
-### 🌐 Official Developer Resources
+###  Official Developer Resources
 * [Solana Main Web Portal](https://solana.com)
 * [Solana Technical Documentation](https://docs.solana.com)
 * [Solana GitHub Repository](https://github.com/solana-labs/solana)
